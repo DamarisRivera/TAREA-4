@@ -21,6 +21,7 @@ PARCIAL 2
 
 #### CAPITULO 7
 
+![CIRCUITOS_EN_SERIE_-_PARALELO](https://user-images.githubusercontent.com/105671763/176796152-80a7a02e-0b0f-4d8f-a736-83460c08b42d.png)
 
 #### CAPITULO 8 
 
