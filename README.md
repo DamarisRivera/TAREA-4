@@ -5,17 +5,18 @@ PARCIAL 2
 ##### CIRCUITOS ELÉCTRICOS
 ##### NOMBRE: Damaris Rivera.
 ##### NRC: 7318                                                                                                                  
-##### FECHA:  –  – 2022
+##### FECHA: 01 – 07 – 2022
 
 ## 1. Objetivos 
   
 ### 1.1 Objetivo General
         
-
+Aprender sobre los Circuitos en Serie - Paralelo y conocer los Teoremas de Circuitos y Conversiones para resolver diversos circuitos utilizando conceptos ya aprendidos con anterioridad.
 	
 ### 1.2 Objetivos Específicos
         
-
+- Realizar los problemas planteados en cada capítulo, indicando el proceso que ha sido utilizado.
+- Hacer mapas mentales donde se utilice ideas cortas que expliquen los conceptos de cada tema y permitan un entendimiento rápido del mismo.
 	
 ## 2. Marco Teórico
 
@@ -28,19 +29,56 @@ PARCIAL 2
 
 ## 3. Explicación y resolución de ejercicios 
 
-#### CAPITULO 5 
+#### CAPITULO 7 
 
 #### PROBLEMAS 
 
-##### *SECCIÓN 5-1 	Resistores en serie*
+##### *SECCIÓN - 	*
 	
 ##### 2.
 
 ##### 2.
 
+##### *SECCIÓN - 	*
+
 ##### 2.
 ##### 2.
 
+##### *SECCIÓN - 	*
+
+
+
+##### *SECCIÓN - 	*
+
+
+
+##### *SECCIÓN - 	*
+
+
+
+##### *SECCIÓN - 	*
+
+##### 2.
+
+#### CAPITULO 8 
+
+
+
+##### *SECCIÓN - 	*
+
+
+##### *SECCIÓN - 	*
+
+
+##### *SECCIÓN - 	*
+
+##### *SECCIÓN - 	*
+
+##### *SECCIÓN - 	*
+
+
+
+##### *SECCIÓN - 	*
 ##### 2.
 
 ## 4. Video
@@ -49,7 +87,8 @@ PARCIAL 2
 
 ## 5. Conclusiones
 
-
+- Para la resolución de los ejercicios se utilizó los conceptos de Ley de Ohm, Leyes de Kirchhoff, Mallas, Nodos, etc. Ya que, para la resolución de ejercicios a pesar de emplear nuevos métodos se necesita recordar antiguos conceptos útiles para el futuro.
+- Los teoremas utilizados necesitan de las leyes básicas ya aprendidas para ser resueltos, ya que, para llegar a la solución se debe utilizar estos conocimientos.
 
 ## 6. Bibliografía
 
