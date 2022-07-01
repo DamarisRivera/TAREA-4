@@ -24,7 +24,7 @@ PARCIAL 2
 ![CIRCUITOS_EN_SERIE_-_PARALELO](https://user-images.githubusercontent.com/105671763/176796152-80a7a02e-0b0f-4d8f-a736-83460c08b42d.png)
 
 #### CAPITULO 8 
-
+![TEOREMAS_DE_CIRCUITOSY_CONVERSIONES](https://user-images.githubusercontent.com/105671763/176816913-9a771115-6f15-4a00-9ff4-34708eff9da8.png)
 
 ## 3. Explicación y resolución de ejercicios 
 
